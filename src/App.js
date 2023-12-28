@@ -23,8 +23,9 @@ const App = ({ fetchData, data, loading, error }) => {
         {data.map((item) => (
           <li>{item.userId}</li>
         ))}
+
       </ul>
-    
+    <h1>this is my first try on git hub and push the code</h1>
       {/* {console.log("this",data)} */}
       
     </div>
